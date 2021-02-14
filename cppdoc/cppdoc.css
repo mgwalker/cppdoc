@@ -1,0 +1,23 @@
+body      { background-color: #000000;
+            font-family: arial; }
+h2        { background-color: #BB0000;
+            color: #FFFFFF;
+            margin-top: 0px;
+            border-bottom: 1px solid black; }
+div.box   { background-color: #FFFFFF;
+            border: 1px solid black;
+            padding-bottom: 10px; }
+h3.params { margin-left: 30px;
+            margin-bottom: 0px; }
+p.l1      { margin-left: 30px;
+            margin-top: 0px;
+            margin-bottom: 0px; }
+p.l2      { margin-left: 60px;
+            margin-top: 0px;
+            margin-bottom: 0px;
+            background-color: #EFEFEF;
+            border: 1px solid black;
+            border-right: 0px;
+            padding: 5px; }
+
+/// REPLACE p's with CLASS="BODY" ///

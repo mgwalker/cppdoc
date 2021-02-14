@@ -1,0 +1,13 @@
+table.mFuncTable - member function table
+
+td.mFuncHeader - member function table header
+
+td.mFuncDesc - member function table descriptions
+
+td.mFuncSpacer - member function spacer
+
+h3.paramHeader - function parameter list header
+
+h3.retHeader
+
+h3.descHeader
