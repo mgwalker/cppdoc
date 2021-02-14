@@ -1,0 +1,86 @@
+body               { font-family: arial;
+                     background-color: black;
+                     color: white; }
+body.lframe        { background-color: white;
+                     color: black; }
+body.tframe        { background-color: #800000;
+                     color: white; }
+
+a.parent:link      { color: white; }
+a.parent:visited   { color: white; }
+a.parent:hover     { color: red;
+                     text-decoration: none; }
+a.parent:link      { color: white; }
+a.parent:visited   { color: white; }
+a.parent:hover     { color: red;
+                     text-decoration: none; }
+a.children:link    { color: white; }
+a.children:visited { color: white; }
+a.children:hover   { color: red;
+                     text-decoration: none; }
+a.clf_link:link    { color: black; }
+a.clf_link:visited { color: black; }
+a.clf_link:hover   { color: black;
+                     text-decoration: none;
+					 color: red; }
+
+table.mFuncTable   { width: 60%;
+		             background-color: white;
+                     color: black; }
+table.mDataTable   { width: 60%;
+                     background-color: white;
+                     color: black; }
+table.globalVars   { width: 60%;
+					 background-color: white;
+					 color: black; }
+
+td.mFuncHeader     { background-color: #800000;
+                     color: white;
+                     font-weight: bold;
+                     padding: 5px;
+                     border-left: 1px solid black;
+                     border-right: 1px solid black;
+                     border-top: 1px solid black; }
+td.mFuncDesc       { border-left: 1px solid black;
+                     border-right: 1px solid black;
+                     border-bottom: 1px solid black;
+                     padding-left: 30px; }
+td.mFuncSpacer     { background-color: black; }
+td.mDataHeader     { background-color: #800000;
+                     color: white;
+                     font-weight: bold;
+                     padding: 5px;
+                     border-left: 1px solid black;
+                     border-right: 1px solid black;
+                     border-top: 1px solid black; }
+td.mDDesc          { border-left: 1px solid black;
+                     border-right: 1px solid black;
+                     border-bottom: 1px solid black;
+                     padding-left: 30px; }
+td.globalHeader    { background-color: #800000;
+                     color: white;
+                     font-weight: bold;
+                     padding: 5px;
+                     border-left: 1px solid black;
+                     border-right: 1px solid black;
+                     border-top: 1px solid black; }
+td.gvDesc          { border-left: 1px solid black;
+                     border-right: 1px solid black;
+                     border-bottom: 1px solid black;
+                     padding-left: 30px; }
+
+p.projDesc         { text-align: justify;
+                     width: 60%; }
+
+h1.projName        { margin-bottom: 0px; }
+h1.projNameMain    { margin-bottom: 0px;
+                     font-size: 48pt;
+					 text-align: center; }
+h3.paramHeader     { margin-bottom: 0px; }
+h3.retHeader       { margin-bottom: 0px; }
+h3.descHeader      { margin-bottom: 0px; }
+h3.createHeader    { margin-bottom: 0px; }
+h3.modHeader       { margin-bottom: 0px; }
+h3.gfHeader        { margin-bottom: 0px; }
+h3.gvHeader        { margin-bottom: 0px; }
+h3.classHeader     { margin-bottom: 0px; }
